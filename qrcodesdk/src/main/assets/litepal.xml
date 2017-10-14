@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <dbname value="key" />
+
+    <version value="7" />
+
+    <list>
+        <mapping class="com.baiducloud.dawnoct.qrcodesdk.bean.KeyBean" />
+        <mapping class="com.baiducloud.dawnoct.qrcodesdk.bean.SignatureBean" />
+    </list>
+</litepal> 

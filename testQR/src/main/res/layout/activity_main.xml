@@ -1,0 +1,132 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/textView"
+        android:layout_marginTop="46dp"
+        android:onClick="erWeiMa01"
+        android:text="1，扫描二维码"
+        android:visibility="gone" />
+
+    <Button
+        android:id="@+id/button2"
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/button"
+        android:onClick="erWeiMa02"
+        android:text="2，解析二维码图片"
+        android:visibility="gone" />
+
+    <Button
+        android:id="@+id/button3"
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/button2"
+        android:onClick="erWeiMa03"
+        android:text="3，自定义扫描界面"
+        android:visibility="gone" />
+
+    <EditText
+        android:id="@+id/edt"
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/button3"
+        android:hint="请输入数据"
+        android:visibility="gone" />
+
+    <Button
+        android:id="@+id/button4"
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/button3"
+        android:layout_toEndOf="@+id/button"
+        android:layout_toRightOf="@+id/button"
+        android:onClick="erWeiMa04"
+        android:text="4，生成二维码图片"
+        android:visibility="gone" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/button3"
+        android:layout_alignRight="@+id/button3"
+        android:layout_below="@+id/button4" />
+
+    <Button
+        android:id="@+id/sdk"
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/imageView"
+        android:layout_toEndOf="@+id/imageView"
+        android:layout_toRightOf="@+id/imageView"
+        android:onClick="applySDK"
+        android:text="调用sdk"
+        android:visibility="gone" />
+
+    <Button
+        android:id="@+id/copy"
+        android:layout_width="wrap_content"
+        android:layout_height="100dp"
+        android:layout_below="@+id/sdk"
+        android:layout_toEndOf="@+id/sdk"
+        android:layout_toRightOf="@+id/sdk"
+        android:onClick="generateKey"
+        android:text="生成密钥对" />
+
+
+
+    <Button
+        android:id="@+id/writeSignature"
+        android:layout_width="wrap_content"
+        android:layout_height="100dp"
+        android:layout_below="@+id/copy"
+        android:layout_toEndOf="@+id/copy"
+        android:layout_toRightOf="@+id/copy"
+        android:onClick="writeSignature"
+        android:text="写入签名" />
+
+    <Button
+        android:id="@+id/findSignature"
+        android:layout_width="wrap_content"
+        android:layout_height="100dp"
+        android:layout_below="@+id/writeSignature"
+        android:layout_toEndOf="@+id/writeSignature"
+        android:layout_toRightOf="@+id/writeSignature"
+        android:onClick="findSignature"
+        android:text="查找签名" />
+
+    <Button
+        android:id="@+id/generateQR"
+        android:layout_width="wrap_content"
+        android:layout_height="100dp"
+        android:layout_below="@+id/findSignature"
+        android:onClick="generateQR"
+        android:text="生成乘车二维码" />
+</RelativeLayout>

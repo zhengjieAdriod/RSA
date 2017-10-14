@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MySDK.iml" filepath="$PROJECT_DIR$/MySDK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/erweima/erweima.iml" filepath="$PROJECT_DIR$/erweima/erweima.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qrcodesdk/qrcodesdk.iml" filepath="$PROJECT_DIR$/qrcodesdk/qrcodesdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testQR/testQR.iml" filepath="$PROJECT_DIR$/testQR/testQR.iml" />
+    </modules>
+  </component>
+</project>
