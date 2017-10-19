@@ -1,0 +1,87 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\zj_tem\000jiancexiangmu\MySDK\testsdk\src\main\AndroidManifest.xml:2:1-17:12
+	package
+		ADDED from E:\zj_tem\000jiancexiangmu\MySDK\testsdk\src\main\AndroidManifest.xml:3:5-45
+		INJECTED from E:\zj_tem\000jiancexiangmu\MySDK\testsdk\src\main\AndroidManifest.xml
+		INJECTED from E:\zj_tem\000jiancexiangmu\MySDK\testsdk\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\zj_tem\000jiancexiangmu\MySDK\testsdk\src\main\AndroidManifest.xml
+		INJECTED from E:\zj_tem\000jiancexiangmu\MySDK\testsdk\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\zj_tem\000jiancexiangmu\MySDK\testsdk\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from E:\zj_tem\000jiancexiangmu\MySDK\testsdk\src\main\AndroidManifest.xml
+		INJECTED from E:\zj_tem\000jiancexiangmu\MySDK\testsdk\src\main\AndroidManifest.xml
+application
+ADDED from E:\zj_tem\000jiancexiangmu\MySDK\testsdk\src\main\AndroidManifest.xml:5:5-15:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Dawn\.android\build-cache\fcd7065892175e7a9951bbe9c4148da880e5201c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Dawn\.android\build-cache\78f7f5ef8d1c462d512184126a5920b138fa7083\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Dawn\.android\build-cache\ddc682a981ceed887d014e724b81cc609a0d96ba\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Dawn\.android\build-cache\448fee0275a085fd2a3e401ef99220d0597e5c42\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Dawn\.android\build-cache\0c7d220622ec02e7713f9286aceb4fb8d8bac05b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Dawn\.android\build-cache\a4fc5c430b5cdba3a0f38c4180faf0e53a9f5ab8\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Dawn\.android\build-cache\6755f0f4ef10a6ad0fd39d67d7ae9ce19fde988b\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Dawn\.android\build-cache\1f33f4123d3f1b3a2794442cfe4b8f3f439bca88\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Dawn\.android\build-cache\1eef78297afcd57ddea1d4cc1dfe53728c86fe8b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Dawn\.android\build-cache\712033691c40eb31bc389cfd84eb729a058e80de\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from E:\zj_tem\000jiancexiangmu\MySDK\testsdk\src\main\AndroidManifest.xml:6:9-41
+	android:supportsRtl
+		ADDED from E:\zj_tem\000jiancexiangmu\MySDK\testsdk\src\main\AndroidManifest.xml:7:9-35
+	android:roundIcon
+		ADDED from E:\zj_tem\000jiancexiangmu\MySDK\testsdk\src\main\AndroidManifest.xml:6:42-87
+	android:allowBackup
+		ADDED from E:\zj_tem\000jiancexiangmu\MySDK\testsdk\src\main\AndroidManifest.xml:5:18-44
+	android:icon
+		ADDED from E:\zj_tem\000jiancexiangmu\MySDK\testsdk\src\main\AndroidManifest.xml:5:45-79
+	android:theme
+		ADDED from E:\zj_tem\000jiancexiangmu\MySDK\testsdk\src\main\AndroidManifest.xml:7:36-67
+activity#com.baiducloud.dawnoct.testsdk.MainActivity
+ADDED from E:\zj_tem\000jiancexiangmu\MySDK\testsdk\src\main\AndroidManifest.xml:8:9-14:20
+	android:name
+		ADDED from E:\zj_tem\000jiancexiangmu\MySDK\testsdk\src\main\AndroidManifest.xml:8:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\zj_tem\000jiancexiangmu\MySDK\testsdk\src\main\AndroidManifest.xml:9:13-13:29
+action#android.intent.action.MAIN
+ADDED from E:\zj_tem\000jiancexiangmu\MySDK\testsdk\src\main\AndroidManifest.xml:10:17-69
+	android:name
+		ADDED from E:\zj_tem\000jiancexiangmu\MySDK\testsdk\src\main\AndroidManifest.xml:10:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\zj_tem\000jiancexiangmu\MySDK\testsdk\src\main\AndroidManifest.xml:12:17-77
+	android:name
+		ADDED from E:\zj_tem\000jiancexiangmu\MySDK\testsdk\src\main\AndroidManifest.xml:12:27-74
+uses-sdk
+INJECTED from E:\zj_tem\000jiancexiangmu\MySDK\testsdk\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Dawn\.android\build-cache\fcd7065892175e7a9951bbe9c4148da880e5201c\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Dawn\.android\build-cache\78f7f5ef8d1c462d512184126a5920b138fa7083\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Dawn\.android\build-cache\ddc682a981ceed887d014e724b81cc609a0d96ba\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Dawn\.android\build-cache\448fee0275a085fd2a3e401ef99220d0597e5c42\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Dawn\.android\build-cache\0c7d220622ec02e7713f9286aceb4fb8d8bac05b\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Dawn\.android\build-cache\a4fc5c430b5cdba3a0f38c4180faf0e53a9f5ab8\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Dawn\.android\build-cache\6755f0f4ef10a6ad0fd39d67d7ae9ce19fde988b\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Dawn\.android\build-cache\1f33f4123d3f1b3a2794442cfe4b8f3f439bca88\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Dawn\.android\build-cache\1eef78297afcd57ddea1d4cc1dfe53728c86fe8b\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Dawn\.android\build-cache\712033691c40eb31bc389cfd84eb729a058e80de\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Dawn\.android\build-cache\fcd7065892175e7a9951bbe9c4148da880e5201c\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from E:\zj_tem\000jiancexiangmu\MySDK\testsdk\src\main\AndroidManifest.xml
+		INJECTED from E:\zj_tem\000jiancexiangmu\MySDK\testsdk\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\zj_tem\000jiancexiangmu\MySDK\testsdk\src\main\AndroidManifest.xml
+		INJECTED from E:\zj_tem\000jiancexiangmu\MySDK\testsdk\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Dawn\.android\build-cache\fcd7065892175e7a9951bbe9c4148da880e5201c\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Dawn\.android\build-cache\78f7f5ef8d1c462d512184126a5920b138fa7083\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Dawn\.android\build-cache\ddc682a981ceed887d014e724b81cc609a0d96ba\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Dawn\.android\build-cache\448fee0275a085fd2a3e401ef99220d0597e5c42\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Dawn\.android\build-cache\0c7d220622ec02e7713f9286aceb4fb8d8bac05b\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Dawn\.android\build-cache\a4fc5c430b5cdba3a0f38c4180faf0e53a9f5ab8\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Dawn\.android\build-cache\6755f0f4ef10a6ad0fd39d67d7ae9ce19fde988b\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Dawn\.android\build-cache\1f33f4123d3f1b3a2794442cfe4b8f3f439bca88\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Dawn\.android\build-cache\1eef78297afcd57ddea1d4cc1dfe53728c86fe8b\output\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Dawn\.android\build-cache\fcd7065892175e7a9951bbe9c4148da880e5201c\output\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Dawn\.android\build-cache\fcd7065892175e7a9951bbe9c4148da880e5201c\output\AndroidManifest.xml:26:9-47

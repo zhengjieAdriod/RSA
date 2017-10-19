@@ -1,0 +1,4 @@
+#Mon Oct 16 17:13:24 CST 2017
+base.0=E\:\\zj_tem\\000jiancexiangmu\\MySDK\\testsdk\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_7
+renamed.0=classes.dex
+file.0=E\:\\zj_tem\\000jiancexiangmu\\MySDK\\testsdk\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_7\\classes.dex

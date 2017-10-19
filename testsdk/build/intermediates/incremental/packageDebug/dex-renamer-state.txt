@@ -1,0 +1,7 @@
+#Mon Oct 16 13:20:08 CST 2017
+base.0=E\:\\zj_tem\\000jiancexiangmu\\MySDK\\testsdk\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_399231a09d0a46efdb55519ce495dc9abe3e4a0b
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\zj_tem\\000jiancexiangmu\\MySDK\\testsdk\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_77f083149787ee6cdb76bec23ad1d413fba2258b\\classes.dex
+base.1=E\:\\zj_tem\\000jiancexiangmu\\MySDK\\testsdk\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_77f083149787ee6cdb76bec23ad1d413fba2258b
+file.0=E\:\\zj_tem\\000jiancexiangmu\\MySDK\\testsdk\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_399231a09d0a46efdb55519ce495dc9abe3e4a0b\\classes.dex

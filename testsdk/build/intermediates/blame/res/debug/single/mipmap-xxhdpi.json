@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\zj_tem\\000jiancexiangmu\\MySDK\\testsdk\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher_round.png",
+        "source": "E:\\zj_tem\\000jiancexiangmu\\MySDK\\testsdk\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\zj_tem\\000jiancexiangmu\\MySDK\\testsdk\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "E:\\zj_tem\\000jiancexiangmu\\MySDK\\testsdk\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    }
+]
